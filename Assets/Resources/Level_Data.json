@@ -1,0 +1,64 @@
+{
+  "levelData": [
+    {
+      "levelNumber": 1,
+      "numberStar": 0,
+      "isCompleted": false,
+      "isPlaying": true
+    },
+    {
+      "levelNumber": 2,
+      "numberStar": 0,
+      "isCompleted": false,
+      "isPlaying": false
+    },
+    {
+      "levelNumber": 3,
+      "numberStar": 0,
+      "isCompleted": false,
+      "isPlaying": false
+    },
+    {
+      "levelNumber": 4,
+      "numberStar": 0,
+      "isCompleted": false,
+      "isPlaying": false
+    },
+    {
+      "levelNumber": 5,
+      "numberStar": 0,
+      "isCompleted": false,
+      "isPlaying": false
+    },
+    {
+      "levelNumber": 6,
+      "numberStar": 0,
+      "isCompleted": false,
+      "isPlaying": false
+    },
+    {
+      "levelNumber": 7,
+      "numberStar": 0,
+      "isCompleted": false,
+      "isPlaying": false
+    },
+    {
+      "levelNumber": 8,
+      "numberStar": 0,
+      "isCompleted": false,
+      "isPlaying": false
+    },
+    {
+      "levelNumber": 9,
+      "numberStar": 0,
+      "isCompleted": false,
+      "isPlaying": false
+    },
+    {
+      "levelNumber": 10,
+      "numberStar": 0,
+      "isCompleted": false,
+      "isPlaying": false
+    }
+  ]
+}

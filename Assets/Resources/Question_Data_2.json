@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "(3+x)*4 = 28",
+      "correctAnswer": "4",
+      "wrongAnswers": [ "5", "6", "7" ]
+    },
+    {
+      "question": "(8-x)*3 = 15",
+      "correctAnswer": "3",
+      "wrongAnswers": [ "2", "4", "5" ]
+    },
+    {
+      "question": "(5+x)*2 = 18",
+      "correctAnswer": "4",
+      "wrongAnswers": [ "5", "6", "7" ]
+    },
+    {
+      "question": "(12-x)*5 = 35",
+      "correctAnswer": "5",
+      "wrongAnswers": [ "6", "7", "8" ]
+    },
+    {
+      "question": "(9+x)*3 = 36",
+      "correctAnswer": "3",
+      "wrongAnswers": [ "2", "4", "5" ]
+    },
+    {
+      "question": "(7-x)*4 = 28",
+      "correctAnswer": "0",
+      "wrongAnswers": [ "1", "2", "3" ]
+    },
+    {
+      "question": "(10+x)*2 = 24",
+      "correctAnswer": "2",
+      "wrongAnswers": [ "1", "3", "4" ]
+    },
+    {
+      "question": "(15-x)*2 = 18",
+      "correctAnswer": "6",
+      "wrongAnswers": [ "5", "7", "8" ]
+    },
+    {
+      "question": "(6+x)*3 = 33",
+      "correctAnswer": "5",
+      "wrongAnswers": [ "4", "6", "7" ]
+    },
+    {
+      "question": "(11-x)*3 = 24",
+      "correctAnswer": "3",
+      "wrongAnswers": [ "2", "4", "5" ]
+    },
+    {
+      "question": "(8+x)*4 = 48",
+      "correctAnswer": "4",
+      "wrongAnswers": [ "5", "6", "7" ]
+    },
+    {
+      "question": "(13-x)*2 = 16",
+      "correctAnswer": "5",
+      "wrongAnswers": [ "4", "6", "7" ]
+    },
+    {
+      "question": "(9+x)*5 = 70",
+      "correctAnswer": "5",
+      "wrongAnswers": [ "4", "6", "7" ]
+    },
+    {
+      "question": "(14-x)*4 = 48",
+      "correctAnswer": "2",
+      "wrongAnswers": [ "1", "3", "4" ]
+    },
+    {
+      "question": "(12+x)*3 = 45",
+      "correctAnswer": "3",
+      "wrongAnswers": [ "4", "5", "6" ]
+    },
+    {
+      "question": "(16-x)*2 = 14",
+      "correctAnswer": "3",
+      "wrongAnswers": [ "2", "4", "5" ]
+    },
+    {
+      "question": "(10+x)*5 = 75",
+      "correctAnswer": "5",
+      "wrongAnswers": [ "4", "6", "7" ]
+    },
+    {
+      "question": "(18-x)*4 = 52",
+      "correctAnswer": "5",
+      "wrongAnswers": [ "4", "6", "7" ]
+    },
+    {
+      "question": "(15+x)*3 = 48",
+      "correctAnswer": "3",
+      "wrongAnswers": [ "4", "5", "6" ]
+    },
+    {
+      "question": "(20-x)*2 = 28",
+      "correctAnswer": "6",
+      "wrongAnswers": [ "5", "7", "8" ]
+    },
+    {
+      "question": "(36/x)+4 = 13",
+      "correctAnswer": "4",
+      "wrongAnswers": [ "3", "5", "6" ]
+    },
+    {
+      "question": "(45/x)+3 = 18",
+      "correctAnswer": "2",
+      "wrongAnswers": [ "1", "3", "4" ]
+    },
+    {
+      "question": "(56/x)+2 = 30",
+      "correctAnswer": "2",
+      "wrongAnswers": [ "1", "3", "4" ]
+    },
+    {
+      "question": "(72/x)+1 = 13",
+      "correctAnswer": "6",
+      "wrongAnswers": [ "5", "7", "8" ]
+    },
+    {
+      "question": "(81/x)+3 = 18",
+      "correctAnswer": "4",
+      "wrongAnswers": [ "3", "5", "6" ]
+    },
+    {
+      "question": "(100/x)+2 = 52",
+      "correctAnswer": "1",
+      "wrongAnswers": [ "2", "3", "4" ]
+    },
+    {
+      "question": "(120/x)+3 = 28",
+      "correctAnswer": "5",
+      "wrongAnswers": [ "4", "6", "7" ]
+    },
+    {
+      "question": "(144/x)+2 = 20",
+      "correctAnswer": "7",
+      "wrongAnswers": [ "6", "8", "9" ]
+    },
+    {
+      "question": "(168/x)+4 = 14",
+      "correctAnswer": "6",
+      "wrongAnswers": [ "5", "7", "8" ]
+    },
+    {
+      "question": "(196/x)+2 = 30",
+      "correctAnswer": "6",
+      "wrongAnswers": [ "5", "7", "8" ]
+    },
+    {
+      "question": "(225/x)+5 = 30",
+      "correctAnswer": "7",
+      "wrongAnswers": [ "6", "8", "9" ]
+    },
+    {
+      "question": "(256/x)+4 = 68",
+      "correctAnswer": "4",
+      "wrongAnswers": [ "3", "5", "6" ]
+    },
+    {
+      "question": "(288/x)+3 = 20",
+      "correctAnswer": "8",
+      "wrongAnswers": [ "7", "9", "10" ]
+    },
+    {
+      "question": "(324/x)+2 = 25",
+      "correctAnswer": "6",
+      "wrongAnswers": [ "5", "7", "8" ]
+    },
+    {
+      "question": "(361/x)+3 = 20",
+      "correctAnswer": "16",
+      "wrongAnswers": [ "15", "17", "18" ]
+    },
+    {
+      "question": "(400/x)+2 = 60",
+      "correctAnswer": "6",
+      "wrongAnswers": [ "5", "7", "8" ]
+    }
+  ]
+}

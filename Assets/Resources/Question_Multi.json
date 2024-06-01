@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "3 * 5 = ?",
+      "correctAnswer": "15",
+      "wrongAnswers": [ "7", "6", "9" ]
+    },
+    {
+      "question": "4 * 2 = ?",
+      "correctAnswer": "8",
+      "wrongAnswers": [ "6", "12", "7" ]
+    },
+    {
+      "question": "5 * 6 = ?",
+      "correctAnswer": "30",
+      "wrongAnswers": [ "20", "22", "25" ]
+    },
+    {
+      "question": "6 * 3 = ?",
+      "correctAnswer": "18",
+      "wrongAnswers": [ "4", "9", "12" ]
+    },
+    {
+      "question": "7 * 9 = ?",
+      "correctAnswer": "63",
+      "wrongAnswers": [ "56", "72", "81" ]
+    },
+    {
+      "question": "8 * 4 = ?",
+      "correctAnswer": "32",
+      "wrongAnswers": [ "24", "30", "35" ]
+    },
+    {
+      "question": "9 * 3 = ?",
+      "correctAnswer": "27",
+      "wrongAnswers": [ "24", "30", "25" ]
+    },
+    {
+      "question": "10 * 2 = ?",
+      "correctAnswer": "20",
+      "wrongAnswers": [ "12", "15", "18" ]
+    },
+    {
+      "question": "11 * 7 = ?",
+      "correctAnswer": "77",
+      "wrongAnswers": [ "66", "84", "92" ]
+    },
+    {
+      "question": "12 * 8 = ?",
+      "correctAnswer": "96",
+      "wrongAnswers": [ "84", "108", "120" ]
+    },
+    {
+      "question": "13 * 5 = ?",
+      "correctAnswer": "65",
+      "wrongAnswers": [ "52", "70", "78" ]
+    },
+    {
+      "question": "14 * 4 = ?",
+      "correctAnswer": "56",
+      "wrongAnswers": [ "48", "60", "72" ]
+    },
+    {
+      "question": "15 * 9 = ?",
+      "correctAnswer": "135",
+      "wrongAnswers": [ "120", "150", "162" ]
+    },
+    {
+      "question": "16 * 3 = ?",
+      "correctAnswer": "48",
+      "wrongAnswers": [ "36", "42", "54" ]
+    },
+    {
+      "question": "17 * 6 = ?",
+      "correctAnswer": "102",
+      "wrongAnswers": [ "84", "120", "136" ]
+    },
+    {
+      "question": "18 * 2 = ?",
+      "correctAnswer": "36",
+      "wrongAnswers": [ "24", "30", "40" ]
+    },
+    {
+      "question": "19 * 4 = ?",
+      "correctAnswer": "76",
+      "wrongAnswers": [ "64", "80", "92" ]
+    },
+    {
+      "question": "20 * 7 = ?",
+      "correctAnswer": "140",
+      "wrongAnswers": [ "120", "150", "160" ]
+    },
+    {
+      "question": "21 * 3 = ?",
+      "correctAnswer": "63",
+      "wrongAnswers": [ "54", "72", "81" ]
+    },
+    {
+      "question": "22 * 8 = ?",
+      "correctAnswer": "176",
+      "wrongAnswers": [ "154", "192", "208" ]
+    }
+  ]
+}
